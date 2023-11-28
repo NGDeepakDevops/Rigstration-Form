@@ -24,12 +24,12 @@
    <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.131.164:8081/repository/Cloud1/</url>
+            <url>http://54.152.178.82:8081/repository/Cloud1/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.131.164:8081/repository/Gen1/</url>
+            <url>http://54.152.178.82:8081/repository/Gen1/</url>
         </snapshotRepository>
     <site>
       <id>site-server</id>
